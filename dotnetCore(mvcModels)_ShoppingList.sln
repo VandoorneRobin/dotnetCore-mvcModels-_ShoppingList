@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetCore(mvcModels)_ShoppingList", "dotnetCore(mvcModels)_ShoppingList\dotnetCore(mvcModels)_ShoppingList.csproj", "{6C646811-25D8-440E-B2DB-D40022A7CB72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{9553809A-366D-4EFB-BBA1-EDF099E95636}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{6C646811-25D8-440E-B2DB-D40022A7CB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C646811-25D8-440E-B2DB-D40022A7CB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C646811-25D8-440E-B2DB-D40022A7CB72}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9553809A-366D-4EFB-BBA1-EDF099E95636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9553809A-366D-4EFB-BBA1-EDF099E95636}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9553809A-366D-4EFB-BBA1-EDF099E95636}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9553809A-366D-4EFB-BBA1-EDF099E95636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
